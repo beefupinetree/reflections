@@ -1,0 +1,2 @@
+Comparing files side by side makes it easier to spot
+the differences
